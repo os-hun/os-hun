@@ -29,9 +29,9 @@ Hi, I'm Shun, a university student and developer from Japan.
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=os-hun&count_private=true&show_icons=true" />
+    <img align="left" src="https://github-readme-stats.os-hun.vercel.app/api?username=os-hun&count_private=true&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=os-hun" />
+    <img align="left" src="https://github-readme-stats.os-hun.vercel.app/api/top-langs/?username=os-hun" />
   </a>
 </div>

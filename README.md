@@ -24,7 +24,7 @@ Hi, I'm Shun, a university student and developer from Japan.
 </div>
 <br />
 
-*NOTE:Top languages does not indicate my skill level or something like that, it's a github metric languages I have the most code on github.  (read more [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))*
+*NOTE:Top languages does not indicate my skill level or something like that, it's a github metric languages I have the most code on github.  ([github-readme-stats](https://github.com/anuraghazra/github-readme-stats))*
 
 
 <div>

@@ -1,6 +1,6 @@
-## Hi there, I'm Shun!
+## Hi there👋 I'm Shun!
 
-Hi, I'm Shun, a university student and developer from Japan.
+Hi, I'm Shun, a web developer from Japan.
 
 **Languages and Tools:**
 
@@ -23,3 +23,11 @@ Hi, I'm Shun, a university student and developer from Japan.
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="20px"></code>
 </div>
 <br />
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=os-hun&layout=compact&count_private=true&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=os-hun&count_private=true&show_icons=true" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=os-hun&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)

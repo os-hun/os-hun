@@ -1,6 +1,6 @@
 ## Hi there👋 I'm Shun!
 
-Hi, I'm Shun, a web developer from Japan.
+Hi, I'm Shun, a software engineer in Japan.
 
 **Languages and Tools:**
 

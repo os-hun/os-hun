@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="https://github.com/os-hun/os-hun">
+    <img src="https://komarev.com/ghpvc/?username=os-hun" alt="page views" />
+  </a>
+</p>
+
 ## Hi there👋 I'm Shun!
 
 Hi, I'm Shun, a software engineer in Japan.

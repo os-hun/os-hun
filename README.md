@@ -10,12 +10,12 @@ Hi, I'm Shun, a software engineer in Japan.
 
 ### ⚡️ skills
 
-[![languages](https://skillicons.dev/icons?i=bun,ts,js,nodejs,react,nextjs,remix,nestjs,graphql,prisma,ruby,rails,php,laravel,go,sqlite,mysql,postgres,firebase,docker,vite,vitest,gcp,cloudflare,vercel&perline=9&theme=light)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=bun,ts,js,nodejs,react,nextjs,remix,nestjs,graphql,prisma,ruby,rails,php,laravel,go,sqlite,mysql,postgres,supabase,firebase,docker,vite,vitest,gcp,cloudflare,vercel,figma&perline=9&theme=light)](https://skillicons.dev)
 
 ### 🔧 tools
-[![My Tools](https://skillicons.dev/icons?i=vscode,figma,discord,notion&theme=light)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,notion,discord&theme=light)](https://skillicons.dev)
 
-### 📈 stats
+## 📈 Stats
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=os-hun&layout=compact&count_private=true&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=os-hun&count_private=true&show_icons=true" />
